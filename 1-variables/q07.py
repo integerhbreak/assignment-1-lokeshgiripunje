@@ -4,11 +4,12 @@
 # Your code goes here
 
 # create a vairable pi and store value as 3.14
+pi=3.14
 
 # create a variable radius and  store value as 5
-
+radius=5
 # area of circle 
----- = pi * radius * radius
+area_of_circle = pi * radius * radius
 
 # print "area of cricle is : "
-print('')
+print('Area of circle is',area_of_circle)

@@ -5,13 +5,13 @@
 # Your code goes here
 
 # your full name
-fullname = ----
+fullname = 'Lokesh Giripunje'
 
 # your age
-age = ----
+age = 37
 
 # Location
-city = ----
+city = 'Pune'
 
 # print function
-print(f"Hey everyone! I’m {}, {} years old, living in {}")
+print(f"Hey everyone! I’m {fullname}, {age} years old, living in {city}")
